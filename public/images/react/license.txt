@@ -1,0 +1,11 @@
+Model Information:
+* title:	React
+* source:	https://sketchfab.com/3d-models/react-2c2de03ebc284c639d974ad3047d7497
+* author:	NSSmith5764 (https://sketchfab.com/NSSmith5764)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "React" (https://sketchfab.com/3d-models/react-2c2de03ebc284c639d974ad3047d7497) by NSSmith5764 (https://sketchfab.com/NSSmith5764) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
