@@ -139,7 +139,7 @@
     position: relative;
     font-size: 16px;
     border-radius: 20px;
-border:5px solid #232a58;
+border:5px solid #06397d;
     align-items: center;
 }
 .container4 {
@@ -154,7 +154,7 @@ border:5px solid #232a58;
     position: relative;
     font-size: 16px;
     border-radius: 20px;
-border:5px solid #232a58;
+border:5px solid #06397d;
     align-items: center;
 }
 .imageP{
@@ -181,15 +181,15 @@ margin-left: 0px;
     position: relative;
     font-size: 16px;
     border-radius: 20px;
-border:5px solid #232a58;
+border:5px solid #06397d;
     align-items: center;
-    background-color: #232a58;
+    background-color: #06397d;
 }
 
 
 
 .i{
-    color: #232a58;
+    color: #06397d;
     font-size: 400;
   text-align: center ;
   margin-left: 75px;
@@ -269,7 +269,7 @@ height: 580px;
   
     }
     .i{
-        color: #232a58;
+        color: #06397d;
         font-size: 400;
       text-align: center ;
       margin-left: 50px;
